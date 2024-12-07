@@ -7,7 +7,6 @@ namespace CSSSDF_FINALS.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-
     public class EmployeeController : ControllerBase
     {
         private readonly Service _service;
