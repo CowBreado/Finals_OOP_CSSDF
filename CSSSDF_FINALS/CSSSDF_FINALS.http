@@ -1,0 +1,6 @@
+@CSSSDF_FINALS_HostAddress = http://localhost:5180
+
+GET {{CSSSDF_FINALS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
